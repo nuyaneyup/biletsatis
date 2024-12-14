@@ -1,0 +1,16 @@
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\bin\Debug\net8.0-windows\sinemabiletsatısı.exe
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\bin\Debug\net8.0-windows\sinemabiletsatısı.deps.json
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\bin\Debug\net8.0-windows\sinemabiletsatısı.runtimeconfig.json
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\bin\Debug\net8.0-windows\sinemabiletsatısı.dll
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\bin\Debug\net8.0-windows\sinemabiletsatısı.pdb
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.frmBiletSatis.resources
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.csproj.GenerateResource.cache
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.AssemblyInfo.cs
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.dll
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\refint\sinemabiletsatısı.dll
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.pdb
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\sinemabiletsatısı.genruntimeconfig.cache
+C:\Users\Can\source\repos\sinemabiletsatısı\sinemabiletsatısı\obj\Debug\net8.0-windows\ref\sinemabiletsatısı.dll
